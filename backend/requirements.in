@@ -1,0 +1,5 @@
+Django<5
+psycopg[binary]
+djangorestframework
+django-environ
+drf-yasg
